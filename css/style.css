@@ -168,7 +168,7 @@ a {
 }
 
 .header__item-menu::after {
-  content: url(/img/icon/arrow-down.png);
+  content: url(img/icon/arrow-down.png);
   padding-left: 9px;
 }
 
@@ -187,7 +187,7 @@ a {
 }
 
 .header__account-eng::after {
-  content: url(/img/icon/arrow-down.png);
+  content: url(img/icon/arrow-down.png);
   padding-left: 9px;
 }
 
@@ -423,7 +423,7 @@ a {
 .button-8,
 :checked {
   background: #05C7A4;
-  background-image: url(/img/icon/radio-check.png);
+  background-image: url(img/icon/radio-check.png);
   background-repeat: no-repeat;
   background-position: center;
 
